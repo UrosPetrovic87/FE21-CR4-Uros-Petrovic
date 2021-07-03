@@ -1,0 +1,55 @@
+let movies = `
+[{
+    "movieName": "Goodfather",
+    "image": "img/good.jpg",
+    "description": "Action, Drama, Thriler",
+    "likes": "105"
+},
+{
+    "movieName": "Batman",
+    "image": "img/bat.jpg",
+    "description": "Action, Sci-fi, Thriler",
+    "likes": "99"
+},
+{
+    "movieName": "Spiderman",
+    "image": "img/spider.jpg",
+    "description": "Action, Adventure",
+    "likes": "89"
+},
+{
+    "movieName": "Ironman",
+    "image": "img/iron.jpg",
+    "description": "Action, Sci-fi, Thriler",
+    "likes": "101"
+},
+{
+    "movieName": "Thor",
+    "image": "img/thor.jpg",
+    "description": "Sci-fi, Love, Mystery",
+    "likes": "112"
+},
+{
+    "movieName": "Wonder woman",
+    "image": "img/ww.jpg",
+    "description": "Action, Love",
+    "likes": "122" 
+},
+{
+    "movieName": "Avatar",
+    "image": "img/avatar.jpg",
+    "description": "Sci-fi, Action, Drama, Thriler, Family",
+    "likes": "95"
+},
+{
+    "movieName": "Forest Gump",
+    "image": "img/forest.jpg",
+    "description": "Comedy, Drama",
+    "likes": " 96"
+},
+{
+    "movieName": "Avengers",
+    "image": "img/avengers.jpg",
+    "description": "Sci-fi, Adventure, Action",
+    "likes": "110"
+}]`
